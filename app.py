@@ -1,8 +1,10 @@
 # app.py
 from flask import Flask, request, jsonify
 import joblib
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 def load_model(path):
     with open(path, "rb") as f:
