@@ -6,6 +6,10 @@ The system includes:
 - Multiple classical ML models for multi-label classification
 - Evaluation metrics and visualizations
 
+Website: **https://salvadorrobles.com/disaster_classifier.html**
+
+Presentation Slides **https://docs.google.com/presentation/d/1eoACUjx7Kj6zDcQLxR6rK6_qR5btwTuUSlJG6qOnoHg/edit?usp=sharing**
+
 ## Dataset
 This dataset contains tens of thousands of real disaster-related messages labeled across multiple humanitarian categories including food, water, shelter, medical aid, and more.
 
